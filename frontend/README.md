@@ -1,13 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Welcome to the Planet Saints app!
-
-Written on Node.js to the planet-saints.
-
-To run this app, you need:
-* Node.js
-* MongoDB
-
 ## Available Scripts
 
 In the project directory, you can run:
