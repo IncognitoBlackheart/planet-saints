@@ -8,7 +8,7 @@ To run this app, you need:
 
 ## Start the project!
 
-In the project directory, you can run:
+In both projects directories, you can run:
 
 ### `npm start`
 
